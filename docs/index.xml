@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computational Healthcare Analytics Lab</title>
-    <link>/</link>
+    <link>http://blockchenlab.github.io/computationalhealthcareanalyticslab/</link>
     <description>Recent content on Computational Healthcare Analytics Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Sep 2019 15:02:40 -0400</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blockchenlab.github.io/computationalhealthcareanalyticslab/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recruiting Lab Members</title>
-      <link>/posts/recruiting-lab-members/</link>
+      <link>http://blockchenlab.github.io/computationalhealthcareanalyticslab/posts/recruiting-lab-members/</link>
       <pubDate>Sun, 22 Sep 2019 15:02:40 -0400</pubDate>
       
-      <guid>/posts/recruiting-lab-members/</guid>
+      <guid>http://blockchenlab.github.io/computationalhealthcareanalyticslab/posts/recruiting-lab-members/</guid>
       <description>The Computational Healthcare Analytics Lab is recruiting new lab members.
 Open Positions Students PhD, Master, and undergraduate students.
 Research Scientist Research staff that are not current students.
@@ -26,10 +26,10 @@ Blockchain Engineer Blockchain engineering. Experience with smart contracts.</de
     
     <item>
       <title>Computational Healthcare Analytics Lab</title>
-      <link>/posts/computational-healthcare-analytics-lab/</link>
+      <link>http://blockchenlab.github.io/computationalhealthcareanalyticslab/posts/computational-healthcare-analytics-lab/</link>
       <pubDate>Sun, 22 Sep 2019 14:54:57 -0400</pubDate>
       
-      <guid>/posts/computational-healthcare-analytics-lab/</guid>
+      <guid>http://blockchenlab.github.io/computationalhealthcareanalyticslab/posts/computational-healthcare-analytics-lab/</guid>
       <description> Machine Learning Blockchain
  Hematology
  Oncology
