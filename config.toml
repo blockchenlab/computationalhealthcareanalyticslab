@@ -1,4 +1,4 @@
-baseURL = "https://blockchenlab.github.io/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Computational Healthcare Analytics Lab"
 theme = "ananke"
