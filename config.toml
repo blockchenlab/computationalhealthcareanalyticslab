@@ -1,3 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://blockchenlab.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Computational Healthcare Analytics Lab"
+theme = "ananke"
+publishDir = "docs"
+
