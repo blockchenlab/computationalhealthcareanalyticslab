@@ -6,10 +6,19 @@
     <description>Recent content on Computational Healthcare Analytics Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Sep 2019 15:02:40 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2019 22:00:10 -0400</lastBuildDate>
     
 	<atom:link href="http://blockchenlab.github.io/computationalhealthcareanalyticslab/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Public Healthcare Data Md</title>
+      <link>http://blockchenlab.github.io/computationalhealthcareanalyticslab/posts/public-healthcare-data/</link>
+      <pubDate>Sun, 22 Sep 2019 22:00:10 -0400</pubDate>
+      
+      <guid>http://blockchenlab.github.io/computationalhealthcareanalyticslab/posts/public-healthcare-data/</guid>
+      <description> Medical Imaging  MIMIC-CXR database  Electronic Health Records  MIMIC Critical Care data  Insurance Claims  CMS 2008-2010 Data Synthetic Public Use File Entrepreneurs  </description>
+    </item>
     
     <item>
       <title>Recruiting Lab Members</title>
