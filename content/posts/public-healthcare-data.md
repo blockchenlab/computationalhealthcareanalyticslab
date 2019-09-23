@@ -1,5 +1,5 @@
 ---
-title: "Public Healthcare Data Md"
+title: "Public Healthcare Data"
 date: 2019-09-22T22:00:10-04:00
 draft: false
 ---
